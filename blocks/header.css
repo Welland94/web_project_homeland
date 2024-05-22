@@ -102,6 +102,10 @@
     max-width: 69%;
   }
 
+  .header__logo {
+    width: 33%;
+  }
+
   .header__content {
     margin-right: 5%;
     margin-left: 5%;
@@ -123,7 +127,7 @@
 
 @media screen and (max-width: 544px) {
   .header__logo {
-    width: 90%;
+    width: 58%;
   }
   .header__title {
     max-width: 90%;
